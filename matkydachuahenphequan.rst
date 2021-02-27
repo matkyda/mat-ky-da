@@ -79,8 +79,8 @@ Thường thì dùng cả cái mật cắt làm vài phần rồi cho vào ngâm
 
 Để biết các thông tin chi tiết hơn về mật kỳ đà mời các bạn xem bài viết tại đây: 
 
-+ `Mật kỳ đà <https://matkyda.readthedocs.io/en/latest/mat-ky-da.html>`_
++ `Mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
 
 Mật kỳ đà có nhiều tác dụng ngoài tác dụng chữa Bệnh hen phế quản, hen suyễn, mật kỳ đà còn có tác dụng chữa bệnh động kinh. Mời các bạn xem bài viết tại đây:
 
-+ `mật kỳ đà chữa bệnh động kinh <https://matkyda.readthedocs.io/en/latest/mat-ky-da-chua-benh-dong-kinh.html>`_
++ `mật kỳ đà chữa bệnh động kinh <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da-chua-benh-dong-kinh.html>`_
