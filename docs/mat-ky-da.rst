@@ -1,1 +1,1 @@
-.. include:: ../MATKYDA.rst
+.. include:: ../matkyda.rst
