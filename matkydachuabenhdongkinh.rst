@@ -106,8 +106,8 @@ Hoặc đến tại nhà theo địa chỉ
 ************************************
 Để biết các thông tin chi tiết hơn về mật kỳ đà mời các bạn xem bài viết tại đây: 
 
-+ `Mật kỳ đà <https://matkyda.readthedocs.io/en/latest/mat-ky-da.html>`_
++ `Mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
 
 Ngoài việc dùng mật kỳ đà chữa bệnh động kinh thì toàn bộ con kỳ đà cũng có tác dụng chữa bệnh động kinh. Mời các bạn xem bài viết tại đây:
 
-+ `Tác dụng của con kỳ đà <https://matkyda.readthedocs.io/en/latest/con-ky-da.html>`_
++ `Tác dụng của con kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/con-ky-da.html>`_
