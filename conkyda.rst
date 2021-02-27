@@ -79,8 +79,8 @@ Thường dùng đốt lên để chữa xoang, còn dùng tán bột để ch�
 
 Để biết các thông tin chi tiết hơn về mật kỳ đà mời các bạn xem bài viết tại đây: 
 
-+ `Mật kỳ đà <https://matkyda.readthedocs.io/en/latest/mat-ky-da.html>`_
++ `Mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
 
 Để biết về giá mật kỳ đà mời các bạn xem bài viết tại đây:
 
-+ `Giá mật kỳ đà <https://matkyda.readthedocs.io/en/latest/gia-mat-ky-da.html>`_
++ `Giá mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/gia-mat-ky-da.html>`_
