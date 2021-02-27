@@ -79,8 +79,8 @@ Qua thời gian bán mật cũng như phản hồi của khách thì mật kỳ 
 
 Để biết các thông tin chi tiết hơn về mật kỳ đà mời các bạn xem bài viết tại đây: 
 
-+ `Mật kỳ đà <https://matkyda.readthedocs.io/en/latest/mat-ky-da.html>`_
++ `Mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
 
 Ngoài việc dùng mật kỳ đà chữa bệnh động kinh thì mật kỳ đà còn có tác dụng chữa bệnh hen phế quản . Mời các bạn xem bài viết tại đây:
 
-+ `Mật kỳ đà chữa hen phế quản <https://matkyda.readthedocs.io/en/latest/mat-ky-da-chua-hen-phe-quan.html>`_
++ `Mật kỳ đà chữa hen phế quản <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da-chua-hen-phe-quan.html>`_
