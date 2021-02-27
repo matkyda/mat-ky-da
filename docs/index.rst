@@ -3,13 +3,12 @@ MẬT KỲ ĐÀ
 ===========
 
 
-
 .. _matkyda:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: TỔNG HỢP VỀ MẬT KỲ ĐÀ
+   :caption: MẬT KỲ ĐÀ
 
    mat-ky-da
 
