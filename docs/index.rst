@@ -4,7 +4,7 @@ MẬT KỲ ĐÀ
 
 
 
-   .. _matkyda:
+.. _matkyda:
 
 .. toctree::
    :maxdepth: 2
@@ -14,7 +14,7 @@ MẬT KỲ ĐÀ
    mat-ky-da
 
 
-   .. _matkydachuahenphequan:
+.. _matkydachuahenphequan:
 
 .. toctree::
    :maxdepth: 2
