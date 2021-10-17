@@ -182,5 +182,5 @@ Mat ky da có nhiều tác dụng và được sử dụng rộng rãi trong nh�
 ********************************
 Các bài viết có thể bạn chưa xem
 ********************************
-+ `**Mật kỳ đà có tác dụng gì** <https://sites.google.com/view/caycohoaqua/cac-san-pham/mat-ky-da-co-tac-dung-gi>`_
++ `**Mật kỳ đà có tác dụng gì** <https://hahuytoai.com/thao-duoc/mat-ky-da-tac-dung-cua-mat-ky-da.html>`_
 
