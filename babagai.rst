@@ -7,6 +7,7 @@ BA BA GAI, BABA TRƠN
    :alt: "con ba ba là con gì"
    :align: center
 
+
 ********************************
 Ba ba có những loại nào
 ********************************
@@ -32,6 +33,7 @@ Theo vùng miền thì ta có ba ba miền núi, ba ba miền bắc, ba ba miề
    :alt: "con ba ba sông"
    :align: center
 
+
 Ba ba gai
 =========
 
@@ -40,6 +42,7 @@ Ba ba gai
 .. image:: /img/con-ba-ba-gai.jpg
    :alt: "con ba ba gai"
    :align: center
+
 
 Ba ba trơn
 ==========
@@ -53,6 +56,7 @@ Trên nền da bụng điểm khoảng trên dưới 10 chấm đen to và đậ
 .. image:: /img/ba-ba-tron.jpg
    :alt: "con ba ba gai"
    :align: center
+
 
 ***************************
 Giá bán ba ba thịt hiện nay
@@ -114,6 +118,7 @@ Miết giáp là một vị thuốc còn dùng trong phạm vi nhân dân, thư�
    :alt: "Miết giáp"
    :align: center
 
+
 Cách lấy miết giáp - mai ba ba
 ------------------------------
 
@@ -131,8 +136,6 @@ cao miết giáp hay còn gọi là **miết giáo giao** thì ngày nên dùng 
 .. image:: /img/miet-giap-mau-den.jpg
    :alt: "Miết giáp"
    :align: center
-
-
 
     
 ********************
