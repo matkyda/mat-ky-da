@@ -1,1 +1,1 @@
-.. include:: ..babagai.rst
+.. include:: ../babagai.rst
