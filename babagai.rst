@@ -3,7 +3,7 @@ BA BA GAI, BABA TRƠN
 ====================
 **Con ba ba** thường được sử dụng làm món ăn trong các bữa ăn liên hoan hoặc bữa ăn đông người. Con ba ba có giá trị dinh dưỡng cao, chế biến các món ăn cũng rất ngon.
 
-.. image:: /img/con-ba-ba-mau-vang.jpg
+.. image:: /img/con-ba-ba-gai-mau-vang.jpg
    :alt: "con ba ba là con gì"
    :align: center
 
